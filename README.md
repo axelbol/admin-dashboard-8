@@ -1,6 +1,7 @@
 # Admin LTE 3 with Laravel 8
 
-This is a fresh Laravel 8 project where we added [AdminLTE 3](https://adminlte.io/) .
+This is a fresh Laravel 8 project where we work with [AdminLTE 3](https://adminlte.io/). You can clone it and start working on your Laravel 8 project with AdminLTE 3 already implemented.
+
 
 ## How to use
 
